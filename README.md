@@ -61,5 +61,5 @@ The assignment simulates a real-world problem of monitoring an industrial proces
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Anish-P-Joshi/Cyclone-Machine-Sensor-Data-Analysis).git
+   git clone https://github.com/Anish-P-Joshi/Cyclone-Machine-Sensor-Data-Analysis.git
    cd Cyclone-Machine-Sensor-Data-Analysis
