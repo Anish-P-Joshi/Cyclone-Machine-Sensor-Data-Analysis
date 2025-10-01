@@ -63,3 +63,15 @@ The assignment simulates a real-world problem of monitoring an industrial proces
    ```bash
    git clone https://github.com/Anish-P-Joshi/Cyclone-Machine-Sensor-Data-Analysis.git
    cd Cyclone-Machine-Sensor-Data-Analysis
+Key Insights
+
+Shutdown periods are strongly associated with specific low sensor thresholds.
+
+Certain operating states persist longer and exhibit higher anomaly rates.
+
+Many anomalies precede shutdowns by 10–30 minutes, suggesting early-warning potential.
+
+Forecasting is challenged by non-stationarity and operating regime shifts, but short-term predictions remain useful for monitoring.
+
+Author
+Prepared by Anish Joshi
