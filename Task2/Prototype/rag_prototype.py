@@ -1,3 +1,4 @@
+"""
 RAG prototype (open-source stack)
 - Embeddings: sentence-transformers/all-MiniLM-L6-v2
 - Index: FAISS (faiss-cpu)
