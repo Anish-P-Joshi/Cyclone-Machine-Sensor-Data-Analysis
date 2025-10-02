@@ -1,1 +1,9 @@
+Requirements are as mentioned:
 
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pdfplumber
+nltk
+scikit-learn
