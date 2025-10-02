@@ -1,0 +1,2 @@
+python rag_prototype.py --mode index --docs_dir docs/ --index_path ./task2_index/
+python rag_prototype.py --mode query --index_path ./task2_index/ --query "What does a sudden draft drop indicate?"
