@@ -1,0 +1,6 @@
+query,retrieved_chunks,precision@5,recall@5,faithfulness,notes
+"What does a sudden draft drop indicate?","sample1.txt[3], sample2.pdf[1]",1.0,1.0,Yes,"Matched exactly with troubleshooting doc"
+"What is the safe outlet gas temperature range?","sample2.pdf[2], sample2.pdf[4]",0.5,1.0,Partial,"Answer included correct range but added extra context"
+"How often does shutdown occur?","-",0.0,0.0,No,"No relevant content, fallback triggered"
+"Steps for checking inlet valve blockage","sample1.txt[1], sample2.pdf[3]",1.0,0.5,Yes,"Good retrieval but partial recall"
+"Why does material temperature spike suddenly?","sample3.txt[2], sample1.txt[4]",0.67,1.0,Partial,"Answer was mostly faithful but slightly vague"
