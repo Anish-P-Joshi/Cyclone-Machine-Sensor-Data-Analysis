@@ -1,10 +1,3 @@
-
----
-
-# 3) `rag_prototype.py` (paste into Task2/prototype/rag_prototype.py)
-
-```python
-"""
 RAG prototype (open-source stack)
 - Embeddings: sentence-transformers/all-MiniLM-L6-v2
 - Index: FAISS (faiss-cpu)
