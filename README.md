@@ -120,13 +120,12 @@ Design and prototype a Retrieval-Augmented Generation (RAG) system to query 50+ 
 
 ## How to Run  
 
-### Task 1  
 ```bash
+# Task 1
 cd Task1
 jupyter notebook task1_analysis.ipynb
 
-### Task 2  
-Install dependencies:  
+# Task 2
 cd Task2/prototype
 pip install -r requirements.txt
 
